@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
+   // Me base en la informacion de esta pagina: 
+   //http://www.criptored.upm.es/crypt4you/temas/criptografiaclasica/leccion9.html
    // CREACION DE EL VECTOR CON EL ABECEDARIO CIRCULAR (SIN Ñ) DE 26 CARACTERES ASCII
    char alpha[52];
    int j=0;
